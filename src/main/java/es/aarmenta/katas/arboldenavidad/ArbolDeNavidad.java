@@ -18,7 +18,7 @@ public class ArbolDeNavidad {
 	}
 
 	protected static int estrellasEnNivel(int nivel, int alturaArbol) {
-		return ((alturaArbol - espaciosEnNivel(nivel, alturaArbol)) * 2) - 1;
+		return (nivel * 2) - 1;
 	}
 	
 	protected static int espaciosEnNivel(int nivel, int alturaArbol) {
