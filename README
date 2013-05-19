@@ -4,13 +4,11 @@ arbol(1)
 
 arbol(2)
 
-.*
+ *
 ***
 
 arbol(3)
 
-..*
-.***
+  *
+ ***
 *****
-
-NOTA: los puntos están puestos porque no se como poner espacios en estos comentarios... :P
